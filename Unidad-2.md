@@ -1,5 +1,4 @@
-[⬅️ Volver al Portafolio](README.md)
-
+[⬅️ Volver al Portafolio](Portafolio-Matematicas-Discretas.md)
 ---
 
 <h1 align="center">⚡ UNIDAD 2 · Álgebra de Boole, Karnaugh y Diseño Lógico</h1>
@@ -112,4 +111,4 @@ Registro de las sesiones guiadas por el docente durante esta unidad.
 <p align="center"><i>Unidad 2 completada: del símbolo booleano al circuito físico, pasando por la sostenibilidad del diseño digital.</i></p>
 
 ---
-[⬅️ Volver al Portafolio](README.md)
+[⬅️ Volver al Portafolio](Portafolio-Matematicas-Discretas.md)
