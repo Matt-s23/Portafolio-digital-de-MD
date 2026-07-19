@@ -1,35 +1,4 @@
-<div align="center">
-
-# PORTAFOLIO DE MATEMÁTICAS DISCRETAS
-
-### Universidad Nacional de Loja
-
-![Banner](https://univercimas.com/wp-content/uploads/2021/04/Universidad-Nacional-de-Loja-UNL.png)
-
-<br>
-
-<img src="https://img.shields.io/badge/MATEMÁTICAS-DISCRETAS-0d6efd?style=for-the-badge&labelColor=0b1120" />
-<img src="https://img.shields.io/badge/GITHUB-PORTAFOLIO-181717?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/UNIDAD-1_ACTIVA-success?style=for-the-badge" />
-
----
-
-## Información Académica
-
-| Campo | Información |
-|:---|:---|
-| Estudiante | **Matias Santiago Calva Gonzalez** |
-| Docente | **Ing. Mario Enrique Cueva** |
-| Carrera | **Computación** |
-| Asignatura | **Matemáticas Discretas** |
-| Ciclo | **Primer Ciclo** |
-| Año Lectivo | **2026** |
-
----
-
-> *"La lógica es la base del razonamiento computacional."*
-
-</div>
+[⬅️ Volver al Portafolio](Portafolio-Matematicas-Discretas.md)
 
 ---
 
@@ -64,10 +33,6 @@
 - [¿Qué fue lo más difícil de entender?](#qué-fue-lo-más-difícil-de-entender)
 - [¿Qué tema comprendí mejor?](#qué-tema-comprendí-mejor)
 - [¿Cómo puedo aplicar la lógica en mi carrera?](#cómo-puedo-aplicar-la-lógica-en-mi-carrera)
-
-### Otras Unidades
-- [Unidad 2 — No habilitado](#unidad-2--no-habilitado)
-- [Unidad 3 — No habilitado](#unidad-3--no-habilitado)
 
 </details>
 
@@ -227,7 +192,7 @@ Las **reglas de inferencia** permiten obtener conclusiones válidas a partir de 
 
 <br>
 
-<<img width="938" height="1346" alt="WhatsApp Image 2026-05-13 at 7 16 04 PM" src="https://github.com/user-attachments/assets/098b9503-cba7-4709-96de-d0049ab6a295" />
+<img width="938" height="1346" alt="WhatsApp Image 2026-05-13 at 7 16 04 PM" src="https://github.com/user-attachments/assets/098b9503-cba7-4709-96de-d0049ab6a295" />
 
 </details>
 
@@ -297,7 +262,6 @@ Las **reglas de inferencia** permiten obtener conclusiones válidas a partir de 
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/d0f3083e-b95b-47af-bfe2-8f857e371fc1" />
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/ba1e7bfa-3464-4142-a85a-51d7be3906b9" />
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/d46861a8-5275-41b2-98aa-82ccd27678fa" />
-
 
 </details>
 
@@ -394,44 +358,10 @@ La lógica proposicional tiene aplicaciones directas en mi carrera de Computaci�
 
 ---
 
-# UNIDAD 2 — NO HABILITADO
-
-<div align="center">
-
-⚠️ Contenido aún no disponible
-
-</div>
-
----
-
-# UNIDAD 3 — NO HABILITADO
-
-<div align="center">
-
-⚠️ Contenido aún no disponible
-
-</div>
-
----
-
 # CONCLUSIÓN GENERAL
 
 La lógica proposicional constituye una herramienta fundamental para el razonamiento formal y el desarrollo computacional. Gracias a ella es posible analizar situaciones complejas, validar argumentos y desarrollar sistemas eficientes y seguros. Su estudio es indispensable para cualquier profesional del área de la computación.
 
 ---
 
-<div align="center">
-
-# Universidad Nacional de Loja
-
-### Matemáticas Discretas · Portafolio Académico · 2026
-
-<img src="https://img.shields.io/badge/PORTAFOLIO-COMPLETADO-success?style=for-the-badge" />
-
-<br>
-
-Elaborado en GitHub Markdown · Diseño académico interactivo
-
-</div>
-
-</div>
+[⬅️ Volver al Portafolio](Portafolio-Matematicas-Discretas.md)
