@@ -86,7 +86,7 @@ Espacio dedicado a la resolución de ejercicios y pequeños proyectos donde se m
 
 **Competencias desarrolladas:** modelado de problemas con estructuras no lineales, aplicación de algoritmos de búsqueda y recorrido, y pensamiento lógico-computacional.
 
-📎 **Evidencia — APE:** [PEGA_AQUÍ_TU_LINK]
+📎 **Evidencia — APE:** https://drive.google.com/drive/u/1/folders/1iUzJVx1khBoMMwQNI-33GnrCuKzTrnj7
 
 ---
 
@@ -96,13 +96,13 @@ Espacio dedicado a la resolución de ejercicios y pequeños proyectos donde se m
 
 Informe técnico sobre los elementos que componen un grafo (vértices, aristas, tipos de grafos) acompañado de ejemplos prácticos.
 
-📎 **Evidencia — AA 1:** [PEGA_AQUÍ_TU_LINK]
+📎 **Evidencia — AA 1:** https://drive.google.com/drive/u/1/folders/18BFl4qEjlRry_FmllIalV7j8nXWLPUoV
 
 ### AA 2 — Árboles en la informática
 
 Ensayo sobre la importancia de los árboles en computación: árboles binarios, árboles AVL, árboles de búsqueda y árboles de Huffman.
 
-📎 **Evidencia — AA 2:** [PEGA_AQUÍ_TU_LINK]
+📎 **Evidencia — AA 2:** https://drive.google.com/drive/u/1/folders/1wGJCger9xwCpoNTk8ctiT0Jwf49zzF4C
 
 ---
 
@@ -112,13 +112,13 @@ Ensayo sobre la importancia de los árboles en computación: árboles binarios, 
 
 Sesión enfocada en los distintos tipos de grafos, sus propiedades y sus formas de representación (matrices de adyacencia y listas de adyacencia), con ejemplos aplicados a redes de comunicación y sistemas de transporte.
 
-📎 **Evidencia — ACD 1:** [PEGA_AQUÍ_TU_LINK]
+📎 **Evidencia — ACD 1:** https://drive.google.com/drive/u/1/folders/15wf9-UhUtxMXe1W0wEcfWEDCqHZBpuNz
 
 ### ACD 2 — Propiedades y recorridos de árboles
 
 Sesión centrada en los conceptos de raíz, hojas, altura y nivel de un árbol, junto con los algoritmos de recorrido (preorden, inorden y postorden).
 
-📎 **Evidencia — ACD 2:** [PEGA_AQUÍ_TU_LINK]
+📎 **Evidencia — ACD 2:** https://drive.google.com/drive/u/1/folders/1uuebZDe2U92y3OCPmvykbas5nHtOYB8y
 
 ---
 
@@ -126,7 +126,7 @@ Sesión centrada en los conceptos de raíz, hojas, altura y nivel de un árbol, 
 
 Evaluación final que reúne los conocimientos teóricos y prácticos de la unidad: análisis de problemas, selección de la estructura adecuada (grafo o árbol) y aplicación del algoritmo correspondiente.
 
-📎 **Evidencia — Evaluación:** [PEGA_AQUÍ_TU_LINK]
+📎 **Evidencia — Evaluación:** https://drive.google.com/drive/u/1/folders/1wduNY9COJgScwSLeKE5O1cylmI7JrUfX
 
 ---
 
