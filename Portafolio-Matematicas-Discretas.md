@@ -2,74 +2,104 @@
   <img width="550" height="auto" alt="Universidad Nacional de Loja" src="https://github.com/user-attachments/assets/4435b046-022b-4535-8a37-e107e4a7012c" />
 </p>
 
-<h1 align="center">🏫 UNIVERSIDAD NACIONAL DE LOJA</h1>
+<h1 align="center">Universidad Nacional de Loja</h1>
+<p align="center"><b>Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables</b></p>
+<p align="center">Ingeniería en Computación</p>
 
-<p align="center">
-  <strong>FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES</strong>
-</p>
-
-
-
----
-
-# 📂 PORTAFOLIO DIGITAL: EVALUACIÓN SUMATIVA
-
-### 📋 Información General
-
-| 🏛️ Información Institucional | 👤 Datos del Estudiante y Docente |
-| :--- | :--- |
-| **Institución:** Universidad Nacional de Loja | **Estudiante:** Matias Santiago Calva Gonzalez|
-| **Facultad:** Energía, las Industrias y los Recursos Naturales No Renovables | **Docente:** Ing. Mario Enrique Cueva Hurtado |
-| **Carrera:** Ingeniería en Computación | **Ciclo / Paralelo:** Ciclo 1A |
-| **Asignatura:** Matemáticas Discretas | **Período Académico:** Marzo-agosto 2026 |
-| **Lugar y Fecha:** Loja-Ecuador, 2026 | |
+<h3 align="center">📁 Portafolio Digital · Matemáticas Discretas</h3>
+<p align="center"><i>Evaluación Sumativa — Ciclo 1A</i></p>
 
 ---
 
-# <div align="center"> 💻 Matemáticas Discretas</div>
+## 🧾 Ficha del portafolio
 
-## 📑 Índice de Unidades
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| 📦 Unidad | 📘 Tema | 🔗 Enlace |
-| :---: | :--- | :---: |
-| **Unidad 1** | LÓGICA MATEMÁTICA | [🚀 Ver Unidad 1](unidad1.md) |
-| **Unidad 2** | ALGEBRA DE BOOLE | [🛠️ Ver Unidad 2](unidad2.md) |
-| **Unidad 3** | Teoría de Grafos y Árboles | [⏳ Ver Unidad 3](unidad3.md) |
+**Datos institucionales**
+
+- **Universidad:** Nacional de Loja
+- **Facultad:** Energía, las Industrias y los Recursos Naturales No Renovables
+- **Carrera:** Ingeniería en Computación
+- **Asignatura:** Matemáticas Discretas
+- **Periodo académico:** Marzo - Agosto 2026
+
+</td>
+<td width="50%" valign="top">
+
+**Datos académicos**
+
+- **Estudiante:** Matias Santiago Calva Gonzalez
+- **Docente:** Ing. Mario Enrique Cueva Hurtado
+- **Ciclo / Paralelo:** 1A
+- **Lugar y fecha:** Loja, Ecuador — 2026
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Conclusiones generales
+## 🗺️ Mapa de unidades
 
-> [!NOTE]
-> 🚀 *Esta sección se encuentra actualmente en desarrollo y se completará al finalizar el ciclo académico.*
+Este portafolio reúne el trabajo desarrollado a lo largo del ciclo, organizado por unidad temática. Cada tarjeta enlaza a la página correspondiente con su desarrollo teórico, prácticas y evidencias.
+
+| # | Unidad | Enfoque | Estado | Acceso |
+|:-:|---|---|:-:|:-:|
+| 1 | Lógica Matemática | Proposiciones, conectores y razonamiento formal | 🟢 | [Abrir →](unidad1.md) |
+| 2 | Álgebra de Boole | Simplificación booleana, Karnaugh y diseño lógico | 🟢 | [Abrir →](unidad2.md) |
+| 3 | Teoría de Grafos y Árboles | Estructuras no lineales y algoritmos de recorrido | 🟡 | [Abrir →](unidad3.md) |
+
+🟢 Completa &nbsp;·&nbsp; 🟡 En desarrollo &nbsp;·&nbsp; 🔴 Pendiente
 
 ---
 
-## 🛠️ Secciones Adicionales
+## 🎯 Balance general del ciclo
+
+> Este apartado se irá completando a medida que avance el ciclo académico. Aquí se documentará la relación entre las tres unidades: cómo el razonamiento lógico de la Unidad 1 sustenta el álgebra booleana de la Unidad 2, y cómo ambas convergen en el modelado de estructuras (grafos y árboles) de la Unidad 3.
+
+*Pendiente de redacción final.*
+
+---
+
+## 📚 Referencias bibliográficas (formato IEEE)
 
 <details>
-<summary><b> 📚 Referencias Bibliográficas (Formato IEEE)</b></summary>
+<summary><b>Ver listado completo</b></summary>
 <br>
 
-* **[1]** Levin, O. (2022). *Discrete Mathematics: An Open Introduction* (4th ed.). University of Northern Colorado. Universidad Tecnológica de Pereira. ISBN: 9781534970748.
-* **[2]** Kwon, H. (2024). *A Spiral Workbook for Discrete Mathematics*. Milne Open Textbooks. ISBN: 978-1-956862-01-0.
-* **[3]** Greiner-Petter, A. (2023). *Making Presentation Math Computable*. Springer. ISBN: 978-3-658-40472-7.
-* **[4]** Powell, K. (2025). *Discrete Perspectives in Mathematics* (2nd ed.).
-* **[5]** Ikeda, K. et al. (2024). *Advanced Mathematical Science for Mobility Society*. Springer. ISBN: 978-981-99-9771-8.
+[1] O. Levin, *Discrete Mathematics: An Open Introduction*, 4th ed. University of Northern Colorado, 2022. ISBN: 9781534970748.
+
+[2] H. Kwon, *A Spiral Workbook for Discrete Mathematics*. Milne Open Textbooks, 2024. ISBN: 978-1-956862-01-0.
+
+[3] A. Greiner-Petter, *Making Presentation Math Computable*. Springer, 2023. ISBN: 978-3-658-40472-7.
+
+[4] K. Powell, *Discrete Perspectives in Mathematics*, 2nd ed., 2025.
+
+[5] K. Ikeda et al., *Advanced Mathematical Science for Mobility Society*. Springer, 2024. ISBN: 978-981-99-9771-8.
 
 </details>
 
+---
+
+## 🤖 Declaración sobre el uso de IA generativa
+
 <details>
-<summary><b>🤖 Declaración de Uso de IA Generativa</b></summary>
+<summary><b>Ver declaración</b></summary>
 <br>
 
-En el desarrollo de este portafolio digital se emplearon herramientas de **Inteligencia Artificial Generativa (Gemini/Claude)** como tutores para optimizar y estructurar técnicamente el formato Markdown para su correcta visualización en GitHub. 
+Para la construcción de este portafolio se utilizaron herramientas de inteligencia artificial generativa como apoyo técnico en la maquetación, organización y depuración del formato Markdown, con el fin de asegurar una correcta visualización en GitHub.
 
-El uso de estas tecnologías se limitó estrictamente al apoyo en la maquetación y depuración técnica, garantizando que el planteamiento del problema, el análisis lógico, el diseño y creación del algoritmo y la validación manual mediante pruebas de escritorio fueran realizados, comprendidos y validados íntegramente por el estudiante, asegurando así la autenticidad del proceso de aprendizaje y la autoría de los resultados presentados.
+Este apoyo se limitó exclusivamente a la parte de formato y presentación. El planteamiento de los problemas, el razonamiento lógico, el diseño de los algoritmos y su validación mediante pruebas manuales fueron desarrollados, comprendidos y verificados directamente por el estudiante, preservando así la autenticidad del proceso de aprendizaje y la autoría del contenido académico presentado.
+
 </details>
 
 ---
+
 <div align="center">
   <sub><b>Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables</b></sub><br>
+  <sub>Universidad Nacional de Loja · Loja, Ecuador · 2026</sub>
+</div>enovables</b></sub><br>
   <sub>Loja, Ecuador - 2026</sub>
 </div>
