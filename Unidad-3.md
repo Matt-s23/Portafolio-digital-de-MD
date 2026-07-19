@@ -1,4 +1,4 @@
-[⬅️ Volver al Portafolio](README.md)
+[⬅️ Volver al Portafolio](Portafolio-Matematicas-Discretas.md)
 
 ---
 
@@ -139,5 +139,5 @@ Los grafos y los árboles no son solo contenido teórico: son la base de sistema
 <p align="center"><i>Unidad 3 completada: de los nodos sueltos a las estructuras que sostienen la conectividad digital.</i></p>
 
 ---
-[⬅️ Volver al Portafolio](README.md)
+[⬅️ Volver al Portafolio](Portafolio-Matematicas-Discretas.md)
 
